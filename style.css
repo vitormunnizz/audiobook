@@ -12,6 +12,6 @@ body{
   );
 }
 
-.active{
+.desativado{
  display: none;
 }
