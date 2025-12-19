@@ -6,14 +6,14 @@ Projeto de **audiobook interativo** desenvolvido com **HTML**, **CSS** e **JavaS
   <img width="637" height="632" alt="Captura de tela de 2025-10-16 07-56-04" src="https://github.com/user-attachments/assets/2990ab6f-7f26-4239-a1c2-b3ddf9ea422e" />
 </div>
 
-## 🧠 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **HTML5** – Estrutura semântica e player de áudio  
 - **CSS3** – Estilização moderna e responsiva  
 - **JavaScript (ES6+)** – Lógica de reprodução e controle das faixas  
 - **DOM Manipulation** – Controle dinâmico dos botões e atualização de interface  
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 
@@ -26,7 +26,7 @@ Do Zero/
 
 ````
 
-## ⚙️ Como Executar o Projeto
+## Como Executar o Projeto
 
 ```bash
 # Clone o repositório
@@ -38,7 +38,7 @@ cd Do-Zero
 # Abra o arquivo index.html no navegador
 ````
 
-## 💻 Funcionalidades
+## Funcionalidades
 
 * Botões de **Play** e **Pause**
 * **Avançar** e **Retroceder** capítulos
@@ -47,25 +47,25 @@ cd Do-Zero
 * Interface intuitiva e responsiva
 * Controle completo via JavaScript
 
-## 🧱 Possíveis Melhorias
+## Possíveis Melhorias
 
 * Adicionar barra de progresso com tempo decorrido
 * Implementar atalhos de teclado (espaço = play/pause, setas = próximo/anterior)
 * Adicionar controle de volume e velocidade
 * Melhorar o design com animações e ícones SVG
 
-## 👨‍💻 Autor
+## Autor
 
 **Vitor Hugo Muniz de Sousa Santos**
 
-💼 Engenheiro da Computação | Desenvolvedor Front-end
+Engenheiro da Computação | Desenvolvedor Front-end
 
-📧 [vitormunnizzdev@gmail.com](mailto:vitormunnizzdev@gmail.com)
-🌐 [www.linkedin.com/in/vitormunnizz](https://www.linkedin.com/in/vitormunnizz)
+[vitormunnizzdev@gmail.com](mailto:vitormunnizzdev@gmail.com)
+[www.linkedin.com/in/vitormunnizz](https://www.linkedin.com/in/vitormunnizz)
 
-## 📝 Licença
+## Licença
 
 Este projeto está licenciado sob a **MIT License**.
 Sinta-se livre para usar e modificar conforme necessário, mantendo os créditos ao autor.
 
-⭐ **Se este projeto te ajudou, deixe uma estrela no repositório!**
+**Se este projeto te ajudou, deixe uma estrela no repositório!**
